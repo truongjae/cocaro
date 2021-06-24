@@ -93,7 +93,11 @@ button {
 #solo {
     width: 45%;
     height: 40%;
-    background-color: rgb(188, 5, 224);
+    background-image: linear-gradient(
+              to right,
+              #f40076,
+              #df98fa
+            );
     outline: none;
     border: none;
     border-radius: 10px;
